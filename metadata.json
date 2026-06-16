@@ -1,0 +1,6 @@
+{
+  "name": "Pakan Shop Telegram Mini App",
+  "description": "Layanan pintar katalog pakan hewan terintegrasi langsung dengan SDK Telegram, AdsGram reward video, dan non-custodial TON Wallet",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
